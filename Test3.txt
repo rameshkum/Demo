@@ -1,0 +1,11 @@
+
+
+present working Dir: 
+
+git add
+
+local repository: 
+
+Remote repository: 
+
+
