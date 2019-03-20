@@ -1,16 +1,4 @@
 
-asdfasdfas
-
-asdf
-asdf
-asdf
-asd
-fadf
-asf
-asd
-
-
-
 public static void main(String[] args){
 
 }
